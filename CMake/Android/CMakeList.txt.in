@@ -17,7 +17,7 @@
 # Copyright 2019  Matthias Melcher and others
 #
 
-cmake_minimum_required(VERSION 3.4.1)
+cmake_minimum_required(VERSION 3.5)
 
 set(FLTK_DIR "@ANDROID_FLTK_DIR@")
 set(FLTK_IDE_DIR "../../../..")

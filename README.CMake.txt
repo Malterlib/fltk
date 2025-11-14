@@ -454,7 +454,7 @@ Here is a basic CMakeLists.txt file using FLTK.
 
 ------
 
-cmake_minimum_required(VERSION 3.2.3)
+cmake_minimum_required(VERSION 3.5)
 
 project(hello)
 
@@ -534,7 +534,7 @@ Here is a sample CMakeLists.txt which compiles the CubeView example from
 a directory you've copied the test/Cube* files to.
 
 ---
-cmake_minimum_required(VERSION 2.6.3)
+cmake_minimum_required(VERSION 3.5)
 
 project(CubeView)
 

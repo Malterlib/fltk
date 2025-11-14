@@ -26,7 +26,7 @@
 # cmake_minimum_required (VERSION 2.8.4)
 
 # Minimum CMake version required by FLTK 1.4 (06/2020, work in progress)
-cmake_minimum_required (VERSION 3.2.3 FATAL_ERROR)
+cmake_minimum_required (VERSION 3.5 FATAL_ERROR)
 
 # Use "legacy mode" of FindOpenGL (avoid CMake developer warning)
 # Note: we're using FindOpenGL with `OPENGL_LIBRARIES` and not (yet)
